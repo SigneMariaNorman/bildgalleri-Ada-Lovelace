@@ -1,0 +1,35 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bildgalleri Ada Lovelace</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Länka till extern CSS -->
+</head>
+<body>
+    <h1>Bildgalleri Ada Lovelace</h1>
+    <div class="gallery">
+        <div class="gallery-item">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Miniature_of_Ada_Byron.jpg/800px-Miniature_of_Ada_Byron.jpg" alt="Ada vid 4 års ålder">
+            <p>Ada vid 4 års ålder</p>
+        </div>
+        <div class="gallery-item">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ada_Lovelace_in_1852.jpg/800px-Ada_Lovelace_in_1852.jpg" alt="Lovelace vid ett piano">
+            <p>Lovelace vid ett piano – målning av Henry Phillips, 1852.</p>
+        </div>
+        <div class="gallery-item">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ada_Lovelace.jpg/800px-Ada_Lovelace.jpg" alt="Ada Lovelace – porträtt 1836">
+            <p>Ada Lovelace – porträtt av Margaret Sarah Carpenter, 1836.</p>
+        </div>
+        <div class="gallery-item">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ada_Byron_aged_seventeen_%281832%29.jpg/800px-Ada_Byron_aged_seventeen_%281832%29.jpg" alt="Ada vid 17 års ålder">
+            <p>Ada vid 17 års ålder</p>
+        </div>
+        <div class="gallery-item">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/800px-Ada_Lovelace_portrait.jpg" alt="Watercolor portrait">
+            <p>"Watercolor portrait of Ada King, Countess of Lovelace"</p>
+        </div>
+    </div>
+    <footer>
+        <p>Alla bilder hämtade från <a href="https://sv.wikipedia.org/wiki/Ada_Lovelace">Wikipedia</a>.</p>
+    </footer>
+</body>
+</html>
